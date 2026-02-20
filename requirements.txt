@@ -1,6 +1,7 @@
 jax==0.9.0
 flax==0.12.3
 optax==0.2.7
-reservoirpy==0.4.1
 scikit-learn==1.8.0
 matplotlib==3.10.8
+reservoirpy==0.4.1
+pulser==1.7.0
